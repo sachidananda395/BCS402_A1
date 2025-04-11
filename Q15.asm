@@ -1,4 +1,4 @@
-	AREA Q15_CODE, CODE, READONLY
+	AREA pgr15,CODE,READONLY
         ENTRY
 
         
